@@ -26,3 +26,6 @@ dist-ssr
 # API KEY
 **/.env
 
+# Git ignore
+**/.gitignore
+
